@@ -8,5 +8,6 @@
 - ⚡ ¿Sabían que Reverse:1999 y Cytus 2 son los mejores juegos de Android existentes?
 - [ ] Mi primer pagina es `llenar esto más tarde`
 <img src="https://files.catbox.moe/mkes1v.gif" >
+
 > [!NOTE]
 > FUERZA ANTES QUE DEBILIDAD. VIDA ANTES QUE MUERTE. VIAJE ANTES QUE DESTINO. OTROS MUNDOS SON POSIBLES. YO LOS SALVARE A TODOS.
